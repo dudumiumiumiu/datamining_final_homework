@@ -1,1 +1,1 @@
-# datamining_final_homework
+这是我们组的数据挖掘大作业，主要完成的内容是新闻热点话题检测。
